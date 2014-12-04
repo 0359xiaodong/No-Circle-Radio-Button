@@ -1,4 +1,6 @@
 No-Circle-Radio-Button
 ======================
 
-Just simple radio buttons without circle shape
+Just simple radio button without circle shape
+
+Check screenshot.
